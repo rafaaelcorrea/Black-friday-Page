@@ -6,3 +6,5 @@ Repositório criado 16.01.2021 .
 
 Repositório alterado diretamente pelo o editor de texto do Git Hub em 16.01.2021
 
+Repositório alterado novamente em 16.01.2021 as 19:42 .
+
