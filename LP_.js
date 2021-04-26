@@ -5,7 +5,7 @@ if (document.getElementById ("name").value.length == "" ||  document.getElementB
 
 // RESULT. PARA DADOS EM BRANCOS : 
 
-window.alert("Oops! Há algum dado em branco!")    
+window.alert(" Oops! Há algum dado em branco!!! ")    
 
 
 } else {
